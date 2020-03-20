@@ -88,11 +88,3 @@ function init() {
 		});
 }
 init();
-
-/** Calculator
- * 1 - Get the value of taget event
- *   -- if it's number call handleNumber function
- *   -- else it's a symbol therefor call handleSymbol
- * 2 - clean the screen
- * 3 -
- */
